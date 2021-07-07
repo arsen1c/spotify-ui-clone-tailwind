@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/spotify-ui-clone-tailwind/static/css/main.6e18134d.chunk.css",
+    "main.js": "/spotify-ui-clone-tailwind/static/js/main.ac18d66f.chunk.js",
+    "main.js.map": "/spotify-ui-clone-tailwind/static/js/main.ac18d66f.chunk.js.map",
+    "runtime-main.js": "/spotify-ui-clone-tailwind/static/js/runtime-main.4be22c7b.js",
+    "runtime-main.js.map": "/spotify-ui-clone-tailwind/static/js/runtime-main.4be22c7b.js.map",
+    "static/js/2.0c9f6fb2.chunk.js": "/spotify-ui-clone-tailwind/static/js/2.0c9f6fb2.chunk.js",
+    "static/js/2.0c9f6fb2.chunk.js.map": "/spotify-ui-clone-tailwind/static/js/2.0c9f6fb2.chunk.js.map",
+    "index.html": "/spotify-ui-clone-tailwind/index.html",
+    "static/css/main.6e18134d.chunk.css.map": "/spotify-ui-clone-tailwind/static/css/main.6e18134d.chunk.css.map",
+    "static/js/2.0c9f6fb2.chunk.js.LICENSE.txt": "/spotify-ui-clone-tailwind/static/js/2.0c9f6fb2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4be22c7b.js",
+    "static/js/2.0c9f6fb2.chunk.js",
+    "static/css/main.6e18134d.chunk.css",
+    "static/js/main.ac18d66f.chunk.js"
+  ]
+}
