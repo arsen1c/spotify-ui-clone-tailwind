@@ -1,13 +1,16 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.sidebar-actions {
+    @apply pt-6 text-gray-400;
+}
+.center-sidebar-icons {
+    @apply flex items-center font-bold hover:text-gray-100;
+}
+.center-sidebar-icons-padding {
+    @apply py-2;
+}
+.playlist-cards {
+    @apply col-span-1 bg-gray-800 p-4 rounded;
 }
